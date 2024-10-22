@@ -1,0 +1,61 @@
+# Compiled Binary Files
+bin/
+obj/
+out/
+
+# User-specific files
+.vscode/
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on Windows
+$RECYCLE.BIN/
+
+# Backup folder for VS 2017 and earlier
+Backup*/
+
+# .NET Core generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Npm package files
+node_modules/
+jspm_packages/
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Rider / JetBrains IDEs
+.idea/
+*.sln.iml
+*.dotSettings.user
+
+# Others
+*.DS_Store
+*.pyc
+
+stats.solved.txt
